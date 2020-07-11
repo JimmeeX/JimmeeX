@@ -1,4 +1,4 @@
-![](dog-hello.gif)
+<img src="https://raw.githubusercontent.com/JimmeeX/JimmeeX/master/dog-hello.gif" width="100">
 
 I am a
 
