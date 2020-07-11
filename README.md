@@ -1,9 +1,9 @@
-Hey there!
+![](dog-hello.gif)
 
 I am a
 
-- 🎓Final Year UNSW Student
-- 💻Frontend Software Engineer
+- 🎓 Final Year Mechatronics & Comp Sci Student
+- 💻 Frontend Software Engineer
 
 I like
 
