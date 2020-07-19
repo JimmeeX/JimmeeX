@@ -21,6 +21,6 @@ and I sometimes
 
 - 🎱 Play Snooker
 - 📺 Watch Anime
-- 🎵 Vibe to jpop
+- 🎵 Vibe to Jpop
 
 Nice to meet you \\( ﾟ∇ ﾟ)/
