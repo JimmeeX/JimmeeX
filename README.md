@@ -29,4 +29,4 @@
 
 <p align="center"><i>If you wanna raise some <b>questions</b>, share some cool <b>projects</b> or just throw a <b>hello</b>, feel free to reach me at <a href="mailto:jameslin3118@gmail.com">jameslin3118@gmail.com</a>!<i/></p>
 
-<h2 align="center"><b>Nice to meet you \\( ﾟ∇ ﾟ)/</b></h2>
+<h2 align="center"><b>Nice to meet you&nbsp;&nbsp;\( ﾟ∇ ﾟ)/</b></h2>
