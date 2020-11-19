@@ -27,6 +27,8 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmeeX&hide=Jupyter%20Notebook&langs_count=10&layout=compact" alt="jimmeex-languages" /></p>
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JimmeeX&layout=compact" alt="jimmeex-weekly-stats" /></p>
+
 <p align="center">&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=JimmeeX" alt="jimmeex-views" /></p>
 
 <p align="center"><i>If you wanna raise some <b>questions</b>, share some cool <b>projects</b> or just throw a <b>hello</b>, feel free to reach me at <a href="mailto:jameslin3118@gmail.com">jameslin3118@gmail.com</a>!<i/></p>
